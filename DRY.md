@@ -14,7 +14,6 @@ Example:
 public static final LOG_LIMIT = 1000;
 ```
 
----
 ### Why to Use?
 To ensure easy maintenance of code, because when a functionality or a constant changes we have to edit the code only in one place.
 
